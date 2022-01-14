@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../../../favicon.ico">
+
+    <title>Blog Template for Bootstrap</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="../../css/editor.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+    <link href="blog.css" rel="stylesheet">
+  </head>
+
+  <body data-new-gr-c-s-check-loaded="14.1044.0" data-gr-ext-installed="" data-new-gr-c-s-loaded="14.1044.0">
+
+    <div class="container">
+      <header class="blog-header py-3">
+        <div class="row flex-nowrap justify-content-between align-items-center">
+          <div class="col-4 pt-1">
+            
+          </div>
+          <div class="col-4 text-center">
+            <a class="blog-header-logo text-dark" href="#">INDN STUDEN</a>
+          </div>
+          <div class="col-4 d-flex justify-content-end align-items-center">
+            <a class="text-muted" href="#">
+              <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="mx-3"><circle cx="10.5" cy="10.5" r="7.5"></circle><line x1="21" y1="21" x2="15.8" y2="15.8"></line></svg>
+            </a>
+            
+          </div>
+        </div>
+      </header>
+
+      
+
+      
+
+      <div class="row mb-2">
+        <div class="col-md-6">
+          <div class="card flex-md-row mb-4 box-shadow h-md-250">
+            <div class="card-body d-flex flex-column align-items-start">
+              <strong class="d-inline-block mb-2 text-primary">World</strong>
+              <h3 class="mb-0">
+                <a class="text-dark" href="#">Pendidikan Tekhnologi</a>
+              </h3>
+              <div class="mb-1 text-muted">Nov 12</div>
+              <p class="card-text mb-auto" style="float: none;">Splash Learn (sebelumnya Splash Math) adalah platform pendidikan berbasis game&nbsp;</p>
+              <a href="https://indnstudent.blogspot.com/2022/01/Pendidikan%20Tekhnologi%20Berbasis%20Game%20Matematika%20Splash%20Learn%20Gratis%20untuk%20TK%20-%20SD.html">Continue reading</a>
+            </div>
+            <img class="card-img-right flex-auto d-none d-lg-block" data-src="holder.js/200x250?theme=thumb" alt="Thumbnail [200x250]" style="width: 184px; height: 250px;" src="https://blogger.googleusercontent.com/img/a/AVvXsEiayKRlKW3eg6vj9EzpcW3gjk1dVAFeiuwwFTL4lU3ShVuqGPnoJBnp69ITSGjPa9M61EtOEfSZuOOkSesrNA0N1cQ6N440RsKHDdnbwUSI-T5uLs7Yjzy9Kn_a8HxcpPNUo4erPIalvMopqJ61d9RVzRktzl0DBOSpdqC_7kgEKFwawoAJFnuF5rRh=w640-h336" data-holder-rendered="true">
+          </div>
+        </div>
+        <div class="col-md-6">
+          <div class="card flex-md-row mb-4 box-shadow h-md-250">
+            <div class="card-body d-flex flex-column align-items-start">
+              <strong class="d-inline-block mb-2 text-success">Design</strong>
+              <h3 class="mb-0">
+                <a class="text-dark" href="#">Pendidikan Profesi Guru</a>
+              </h3>
+              <div class="mb-1 text-muted">Nov 11</div>
+              <p class="card-text mb-auto">indnstudent - Informasi mengenai Program PPG Dalam Jabatan 2022</p>
+              <a href="https://indnstudent.blogspot.com/2022/01/informasi-pendidikan-profesi-guru-ppg.html">Continue reading</a>
+            </div>
+            <img class="card-img-right flex-auto d-none d-lg-block" data-src="holder.js/200x250?theme=thumb" alt="Thumbnail [200x250]" src="https://blogger.googleusercontent.com/img/a/AVvXsEjxLHhljV7kYAfJ1sGDvqB8ahKxEBj_mEW3Kyqg7mRer_5BXvf2l2sE7m1echFa5Ss2lf1R7awxzeIP5qV82yx_PFbFvJyyVx7FXVD6chyqObdKiJOvd-QiG6_GTKHTaiitmFEnDdYKiiR-ApgVbsqiL8bNKpNjxTVaQgR4K53-HC4C4HVRyx7c3won=w640-h354" data-holder-rendered="true" style="width: 200px; height: 250px;">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <main role="main" class="container">
+      <div class="row">
+        <!-- /.blog-main -->
+
+        <!-- /.blog-sidebar -->
+
+      </div><!-- /.row -->
+
+    </main><!-- /.container -->
+
+    <footer class="blog-footer"><div class="jumbotron" style="border-color: rgb(255, 255, 255); background-color: rgb(255, 255, 255);">		  <h1 class="display-3" style="background-color: rgb(255, 255, 255); color: rgb(10, 10, 10);">Pemutakhiran Data Calon Peserta PPG Daljab Tahun 2022</h1>		  <p class="lead"><div>Kementerian Pendidikan Kebudayaan riset dan Teknologi Direktorat Jenderal Pendidikan Anak Usia Dini Pendidikan Dasar dan Pendidikan mengeluarkan panduan pemutakhiran data untuk calon peserta PPG daljab 2022, Satuan pendidikan diharapkan dapat melakukan pemutakhiran data calon peserta PPG dalam jabatan tahun 2022 antara lain:&nbsp;</div><div><br></div><div>Nomor Induk Kependudukan (NIK) dan tanggal lahir melalui laman verval PTK https://vervalptk.data.kemdikbud.go.id</div><div><br></div><div>Adapun tujuan perbaikan pada nomor induk kependudukan (NIK) dan tanggal lahir ini untuk memastikan agar data NIK dan tanggal lahir sudah sesuai di dalam aplikasi verval PTK melalui laman verval PTK jika terdapat kesalahan atau kekeliruan di dalam aplikasi verval PTK maka dapat dilakukan pengajuan perbaikan identitas baik berupa nomor NIK maupun tanggal lahir, dan tempat tanggal lahir Melalui aplikasi Kapan PTK</div><div><br></div><div>Caranya silakan login pada aplikasi verval PTK kemudian pilih submenu perbaikan identitas pada menu identitas, silakan lakukan perbaikan dengan cara mengklik menu perbaikan pada identitas guru atau PTK yang ingin dilakukan perbaikan karena ada kesalahan kemudian akan diarahkan kepada formulir perbaikan</div><div><br></div><div>Selanjunya silakan diperbaiki yang salah entah itu nomor induk kependudukan maupun tempat tanggal lahir, nama, jenis kelamin, nama ibu kandung, kemudian klik perbaikan data setelah klik perbaikan data kita bisa melihat status perbaikan silakan pilih menu status perbaikan agar kita mengetahui status yang sedang kita ajukan Riwayat pendidikan formal mulai dari jenjang pendidikan dasar hingga pendidikan terakhir yang diperbarui melalui Manajemen Individu PTK (https://ptk.datadik.kemdikbud.go.id)</div><div><br></div><div>Pemutakhiran data juga dapat melakukan perbaikan data riwayat pendidikan bagi setiap PTK, pendidikan disini riwayat pendidikan formal pendidikan formal yang diisi bukan hanya pendidikan terakhir akan tetapi pendidikan semua pendidikan formal yang pernah diikuti mulai dari pendidikan dasar sampai dengan pendidikan terakhir minimal sarjana Perbaikan menggunakan akun PTK masing-masing kemudian setelah login pilih menu pendidikan lalu tambah riwayat setelah menambah riwayat jangan lupa untuk&nbsp; disimpan.</div><div><br></div><div>Riwayat karir guru mulai dari pertama kali mengajar dapat di akeses melalui Aplikasi Dapodik; danStatus kepegawaian dan jenis PTK melalui Manajemen Dinas Pendidikan (https://datadik.kemdikbud.go.id)</div></p>		  <hr class="my-4">		  		  <p class="lead">			<a class="btn btn-primary btn-lg" href="https://indnstudent.blogspot.com/" role="button">Learn more</a>		  </p>		</div>
+      <p>Blog template built for <a href="https://getbootstrap.com/">Bootstrap</a> by <a href="https://twitter.com/mdo">@mdo</a>.</p>
+      <p>
+        <a href="#">Back to top</a>
+      </p>
+    </footer>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="../../js/vendor/popper.min.js"></script>
+    <script src="../../js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/holderjs@2.9.4/holder.js"></script>
+    <script>
+      Holder.addTheme('thumb', {
+        bg: '#55595c',
+        fg: '#eceeef',
+        text: 'Thumbnail'
+      });
+    </script>
+  
+
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="250" viewBox="0 0 200 250" preserveAspectRatio="none" style="display: none; visibility: hidden; position: absolute; top: -100%; left: -100%;"><defs><style type="text/css"></style></defs><text x="0" y="13" style="font-weight:bold;font-size:13pt;font-family:Arial, Helvetica, Open Sans, sans-serif">Thumbnail</text></svg></body><grammarly-desktop-integration data-grammarly-shadow-root="true"></grammarly-desktop-integration>
+</html>
